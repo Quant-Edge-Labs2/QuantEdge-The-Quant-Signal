@@ -61,7 +61,7 @@ The bot only returns to **Normal Mode** when the quant signals return to a "heal
 
 Professional traders don't just execute strategies; they manage the risk of the strategy itself. Our bot is built with these advanced sensors at its core:
 
-- **✅ Self-Aware Monitoring**: Our bot calculates its own performance metrics in every 500ms cycle. It knows its `fillRatio` and `pnlTrend` in real-time.
+- **✅ Self-Aware Monitoring**: Our bot calculates its own performance metrics in every cycle. It knows its `fillRatio` and `pnlTrend` in real-time.
 - **✅ Adaptive Aggression**: If the bot detects high volatility or low fill rates, it automatically adjusts its spread and size to protect your capital.
 - **✅ Inventory Skew Protection**: Our proprietary sensors monitor the imbalance between long and short exposure, automatically biasing the next "Search" phase to neutralize your account delta.
 - **✅ Execution Efficiency Guard**: We measure the time between "Order Sent" and "Order Confirmed." If latency spikes, the bot triggers a "Safe Mode" to prevent being "picked off" by faster participants.
