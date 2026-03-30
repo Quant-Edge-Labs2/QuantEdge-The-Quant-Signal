@@ -70,7 +70,7 @@ Professional traders don't just execute strategies; they manage the risk of the 
 
 ---
 <p align="center">
-  ➡️ Visit our Website and acquire your edge. Make your offer—the price might be lower than you think. (https://quantedge-labs.github.io)
+  ➡️ Visit our Website and acquire your edge. Make your offer—the price might be lower than you think. (https://quantedge-labs-official.github.io)
 </p>
 
 <p align="center">
